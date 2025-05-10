@@ -1,0 +1,13 @@
+streamlit
+flask  # Changed from fastapi
+# uvicorn removed
+pymongo
+pandas
+requests
+plotly
+transformers[torch] # Or use transformers[tensorflow]
+pyabsa
+accelerate
+python-dotenv
+# motor removed (was optional)
+numpy<2.0
